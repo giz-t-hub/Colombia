@@ -1,5 +1,5 @@
-# Transporte y Movilidad Colombia *[Transport and mobility in]* Colombia
-Planes, datos y otros documentos sobre transporte y Movilidad Colombia *[Plans, data and other documents on transport and mobility in Colombia]*
+# Transporte y Movilidad Colombia *[Transport and Mobility in]* Colombia
+Planes, datos y otros documentos sobre transporte y movilidad Colombia *[Plans, data and other documents on transport and mobility in Colombia]*
 <b> 
 
 Lista comunitaria de publicaciones, datos y otra información útil sobre transporte y movilidad en Colombia *[Community list of publications, data and other useful information on transport and mobility in Colombia]* 🚲🚌🚋🌳🚊
