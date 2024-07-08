@@ -29,9 +29,9 @@ Lista comunitaria de publicaciones, datos y otra información útil sobre transp
 ### Visión Nacional, Estrategia, Plan Maestro *[National Vision, Strategy, Masterplan]* <a name="Visión-Nacional-Estrategia-Plan-Maestro"></a> 
 
 - Transporte *[Transport]*
-  	- <b> Transport Development Strategy of Argentina </b>: 
+  	- <b> Transport Development Strategy of Colombia </b>: 
 - General *[General]*
-	- <b> Spatial Development Strategy of Argentina </b>
+	- <b> Spatial Development Strategy of Colombia </b>
  
 
 ### Otros documentos nacionales y sectoriales *[Other national and sectoral documents]* <a name="Otros-documentos-nacionales-sectoriales"></a> 
