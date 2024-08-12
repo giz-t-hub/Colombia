@@ -277,6 +277,11 @@ Para más información sobre nuestro trabajo, por favor consulte *[For more info
 - Changing Transport: https://changing-transport.org/
 -	Transformative Urban Mobility Initiative (TUMI): https://transformative-mobility.org/
 -	MobiliseYourCity: https://www.mobiliseyourcity.net/
-		
+
+Contributors: 
+- Angie Ángel
+- Nadja Taeger
+
+
 Compilado por / Contacto *[Compiled by / Contact]*:
 - Armin Wagner: armin.wagner@giz.de
