@@ -35,7 +35,7 @@ Lista comunitaria de publicaciones, datos y otra información útil sobre transp
   	- <b> Plan Maestro Nacional de Sistemas Inteligentes para la Infraestructura el Tránsito y el Transporte, 2022 *[National Master Plan for Intelligent Systems for Infrastructure, Traffic, and Transport]* </b>: https://web.mintransporte.gov.co/jspui/handle/001/10485
   	- <b> CONPES 3991 - Política Nacional de Movilidad Urbana y Regional, 2020 *[CONPES 3991 - National Urban and Regional Mobility Policy – National Planning Department]* </b>: https://colaboracion.dnp.gov.co/CDT/Conpes/Econ%C3%B3micos/3991.pdf
   	- <b> CONPES 3982 - Política Nacional Logística, 2020 *[CONPES 3982 - National Logistics Policy]* </b>: https://colaboracion.dnp.gov.co/CDT/Conpes/Econ%C3%B3micos/3982.pdf
-  	- <b> Estrategia Nacional de Movilidad Eléctrica, 2019 *[National Electric Mobility Strategy ]* </b>: https://www.mintransporte.gov.co/loader.php?lServicio=Tools2&lTipo=descargas&lFuncion=descargar&idFile=28850
+  	- <b> Estrategia Nacional de Movilidad Eléctrica, 2019 *[National Electric Mobility Strategy ]* </b>: https://archivo.minambiente.gov.co/images/AsuntosambientalesySectorialyUrbana/pdf/Estrategia-Nacional-de-Movilidad-Electrica-enme-minambiente.pdf
   	- <b> Plan de Movilidad Escolar *[School Mobility Plan]* </b>: https://ansv.gov.co/contenidos/escuela/fase1/on/ANSV_PT017_HTML06/index.html
   	- <b> Status Quo of Vehicle Efficiency Regulations in Colombia, 2024 </b>: https://changing-transport.org/publications/vehicle-efficiency-regulations-colombia/
   	- <b> Monitoring, Reporting, and Verification Systems for Electric Bus Projects, 2021 </b>: https://changing-transport.org/publications/mrv-scheme-ebuses/
