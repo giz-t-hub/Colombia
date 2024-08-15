@@ -44,7 +44,7 @@ Lista comunitaria de publicaciones, datos y otra información útil sobre transp
   	- <b> Asociación Público Privadad (APP) Sector Férreo, 2020 *[Public-Private Partnership (PPP) Rail Sector]* </b>: https://colaboracion.dnp.gov.co/CDT/Prensa/APP-Sector-ferreo-2020.pdf
   	- <b> Caracterización del Transporte Terrestre Automotor de Carga en Colombia 2010-2012, 2013 *[Characterization of Motorized Cargo Transport in Colombia 2010-2012]* </b>: https://web.mintransporte.gov.co/jspui/handle/001/10508
  	- <b> Estudio de Demanda y Capacidad Portuaria 2019 *[Port Demand and Capacity Study 2019]* </b>: https://colaboracion.dnp.gov.co/CDT/Prensa/Estudio_Demanda%20_Portuaria_2019.pdf
-    	- <b> Estadística de Tráfico y Transporte Marítimo en Colombia *[Traffic and Maritime Transport Statistics in Colombia]* </b>: https://cecoldodigital.dimar.mil.co/3528/1/dimar_2024_I%20Trimestal_estadistico.pdf
+
 - General *[General]*
 	- <b> Plan Nacional de Desarrollo 2022 – 2026, 2023 *[National Development Plan 2022 – 2026]* </b>: https://colaboracion.dnp.gov.co/CDT/Prensa/Publicaciones/plan-nacional-de-desarrollo-2022-2026-colombia-potencia-mundial-de-la-vida.pdf
    	- <b> CONPES 3918 - Estrategia para la Implementación de los Objetivos de Desarrollo Sostenible (ODS) en Colombia, 2018 *[CONPES 3918 - Strategy for the Implementation of the Sustainable Development Goals (SDGs) in Colombia]* </b>: https://www.mintransporte.gov.co/loader.php?lServicio=Tools2&lTipo=descargas&lFuncion=descargar&idFile=28878
@@ -264,7 +264,7 @@ Lista comunitaria de publicaciones, datos y otra información útil sobre transp
 - Tráfico Portuario Marítimo en Colombia – Superintendencia de Transporte *[Maritime Port Traffic in Colombia – Superintendency of Transport]*: https://www.datos.gov.co/Transporte/Trafico-Portuario-Mar-timo-En-Colombia/5r3g-zv5z
 *Información sobre el movimiento de carga y pasajeros en los puertos del país.
 *[*Information on the movement of cargo and passengers in the country's ports.]*
-  
+- <b> Estadística de Tráfico y Transporte Marítimo en Colombia *[Traffic and Maritime Transport Statistics in Colombia]* </b>: https://cecoldodigital.dimar.mil.co/3528/1/dimar_2024_I%20Trimestal_estadistico.pdf
 
 Visión General/Tabla de Contenidos *[Overview/Table of Content]*: https://github.com/giz-t-hub/Overview
 
